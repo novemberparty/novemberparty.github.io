@@ -1,2 +1,3 @@
-# novemberparty.github.io
-November party web site source code 
+# Novemberparty.github.io
+
+[November party web site](https://novemberparty.github.io) source code.
